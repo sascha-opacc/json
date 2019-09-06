@@ -1,0 +1,5 @@
+[
+  { "value": "Wert 1", label: "Text 1" },
+  { "value": "Wert 2", label: "Text 2" },
+  { "value": "Wert 3", label: "Text 3" }
+]
