@@ -1,7 +1,7 @@
 {
   "async": [
-    { "value": 1, "label": "Text 1" },
-    { "value": 2, "label": "Text 2" },
-    { "value": 3, "label": "Text 3" }
+    { "value": "123", "label": "Text 1" },
+    { "value": "234", "label": "Text 2" },
+    { "value": "345", "label": "Text 3" }
   ]
 }
